@@ -43,12 +43,9 @@ Redbike.drive()
 Redbike.__maxspeed = 150 #will not change the variable, beacuse it is private
 Redbike.drive()
 
-
-
-
-
-
-
-
-
-
+'''
+public methods = Accessible from anywhere
+private methods = Accessible only in their own class. starts with two underscores
+public variables = Accessible from anywhere
+private variables = Accesible only in their own class or by a method if defined. starts with two underscores
+'''
