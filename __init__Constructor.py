@@ -1,4 +1,5 @@
 '''
+(*) The __init__() function is called automatically every time the class is being used to create a new object.
 (*) Normally we use __init__ to initialize variables
 (*) __init__ method will be called automatically
 (*) self refers to the object
