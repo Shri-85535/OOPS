@@ -18,8 +18,8 @@ Bluebike =  BikeA()
 Bluebike.drive()
 #Bluebike.__Accelerate()  not accesible from object. ***AttributeError: 'BikeA' object has no attribute '__Accelerate'***
 '''Encapsulation prevents from accessing accidentally, but not intentionally.
-The private attributes and methods are not really hidden, they’re renamed adding _Bike” in the beginning of their name.
-The method can actually be called using "Bluebike._Bike__Accelerate()" '''
+The private attributes and methods are not really hidden, they’re renamed adding _BikeA” in the beginning of their name.
+The method can actually be called using "Bluebike._BikeA__Accelerate()" '''
 
 #Example 1.2 : Private Variables (https://pythonspot.com/encapsulation/)
 '''Variables can be private which can be useful on many occasions.
