@@ -1,6 +1,8 @@
 '''
-"Class" is a design for an object.
-without design we cannot create anything.
+"Class" is a design for an object. Without design we cannot create anything.
+A class is a collection of Objects
+
+The Object is an entity that has a state and behavior associated with it. More specifically, any single integer or any single string is an object
 '''
 
 class Computer:
@@ -11,8 +13,8 @@ class Computer:
 
 a = 'Shri'
 x = 9
-comp1 = Computer()
-comp2 = Computer()
+comp1 = Computer()  #comp1 is an object
+comp2 = Computer()  #comp2 is an object
 
 print(type(a)) #>>> <class 'str'>
 print(type(x)) #>>> <class 'int'>
