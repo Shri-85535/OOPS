@@ -12,7 +12,7 @@ The amin concept of OOPs is to bind the data and the functions that work on that
 6. Data Abstraction
 
 # Real World
-  **Poly** --> Many | **Morphism** --> Structure
-  **Inherit** --> To receive a quality, charecteristic, etc. from your parents
-  **Encapsulation** --> The action of enclosing something in or as if in a capsule
-  **Abstraction** --> The act of removing something from something else
+* **Poly** --> Many | **Morphism** --> Structure
+* **Inherit** --> To receive a quality, charecteristic, etc. from your parents
+* **Encapsulation** --> The action of enclosing something in or as if in a capsule
+* **Abstraction** --> The act of removing something from something else
